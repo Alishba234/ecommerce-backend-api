@@ -1,0 +1,45 @@
+# ==========================
+# Node.js / Express Backend
+# ==========================
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Swagger auto-generated files
+src/swagger/swagger-output.json
+src/swagger/swagger.js
+
+# Logs and debug files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary and cache files
+.tmp/
+.cache/
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Coverage and test results
+coverage/
+*.lcov
+
+# Docker and misc
+docker-compose.override.yml
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
