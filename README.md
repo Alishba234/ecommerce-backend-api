@@ -192,9 +192,8 @@ cd ecommerce-backend
 ## Author
 - Developer: Alishba
 - Role: Backend Developer
-- Email: your_email@example.com
 - GitHub: github.com/Alishba234
-- LinkedIn: linkedin.com/in/your-link
+- LinkedIn: linkedin.com/in/alishbadev
 
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
