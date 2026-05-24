@@ -46,7 +46,7 @@ app.use('/api/review',reviewRouter)
 
 //  DB connection + error handler
 connectDb()
-app.use(globalErrorHandler)
+app.use(globalErrorHandler)//user middleware here
 
 app.listen(PORT, () => {
   console.log(`Server is running on port: ${PORT}`)
